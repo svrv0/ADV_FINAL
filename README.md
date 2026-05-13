@@ -1,4 +1,3 @@
-وه🛒 Product Management System
 
 This project is a simple web application I built while practicing Java web development. It’s basically a small product system where users can register, log in, browse products, and write reviews, while admins can manage products by adding, editing, and deleting them.
 
